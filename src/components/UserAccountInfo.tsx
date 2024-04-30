@@ -124,9 +124,7 @@ export default function EditUser() {
                 value={formData.bio}
                 className="hide-scrollbar resize-none mt-1 p-2 w-full border rounded-md focus:outline-none focus:ring focus:border-blue-300 h-32"
               />
-              {/* {errorData.bio && (
-                <small className="text-red-500">{errorData.bio}</small>
-              )} Not sure about how the error stuff is set up. MB to have a look at this. */}
+      
             </div>
           </div>
           <div>

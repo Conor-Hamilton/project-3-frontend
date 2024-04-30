@@ -47,7 +47,7 @@ function TipsList() {
     );
   }
 
-  // TODO: Add Tailwind/CSS to this
+
   return (
     <section>
       <div className="container mx-auto">
